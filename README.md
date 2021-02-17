@@ -1,8 +1,8 @@
 # makerlinks
 
-#Smarthome/Maker Linksliste
+# Smarthome/Maker Linksliste
 
-##Smarthome Shops
+## Smarthome Shops
 
 - [BerryBase.de][1]
 - [makershop.de][2]
